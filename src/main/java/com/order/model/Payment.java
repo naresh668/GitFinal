@@ -13,6 +13,9 @@ public class Payment {
 	private double amount;
 	
 	
+	private int sal;
+	
+	
 	
 
 	public Payment() {
